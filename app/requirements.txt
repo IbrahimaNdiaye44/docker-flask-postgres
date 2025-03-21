@@ -1,3 +1,7 @@
 flask
 psycopg2
 python-dotenv
+<<<<<<< HEAD
+=======
+gunicorn
+>>>>>>> 27dccbc (Update: Improved UI, sidebar nav, smooth scroll, and Docker setup)
